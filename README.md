@@ -19,7 +19,7 @@
 * **Java** (JDK 17 ou superior recomendado)
 * **Classe `Scanner`** (`java.util.Scanner`) para leitura de dados no terminal
 * **VS Code** como ambiente de desenvolvimento
-* **Google Gemini** Para criar o código e ajudar a tirar os bugs
+* **Google Gemini** Para ajudar na correção de erros
 
 ---
 
